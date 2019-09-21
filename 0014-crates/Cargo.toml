@@ -4,6 +4,6 @@ version = "0.1.0"
 authors = ["Dan Fritchman <dan@fritch.mn>"]
 edition = "2018"
 description = "Publishing tutorial from The Rust Programming Language, Chapter 14"
-license = "BSD"
+license = "MIT"
 
 [dependencies]
